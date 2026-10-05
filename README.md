@@ -109,4 +109,24 @@ See [docs/api.md](docs/api.md) for request, response, validation, and route deta
 6. Change lead status, add a note, or schedule a follow-up.
 7. Choose that customer in AI Assistant for a data-grounded suggestion and unsent email draft.
 
+## Screenshots
+
+<img width="1917" height="905" alt="ConnectCRM dashboard" src="https://github.com/user-attachments/assets/c9d76b3e-9dde-4a35-b20b-655babcc1eff" />
+
+<img width="1915" height="912" alt="ConnectCRM customer list" src="https://github.com/user-attachments/assets/673ed61d-fecc-4728-9ca1-992146830388" />
+
+<img width="1911" height="913" alt="ConnectCRM lead pipeline" src="https://github.com/user-attachments/assets/5e7500db-6b8f-448b-967d-9d9e92503174" />
+
+<img width="1915" height="910" alt="ConnectCRM customer activity" src="https://github.com/user-attachments/assets/bc9e718c-dd23-4991-a820-e9ac28d94bd0" />
+
+<img width="1917" height="910" alt="ConnectCRM follow-ups" src="https://github.com/user-attachments/assets/013d6d0d-8c95-44c7-ad84-c6dda4d02d6c" />
+
+<img width="1907" height="915" alt="ConnectCRM assistant" src="https://github.com/user-attachments/assets/2605db93-9abf-43b7-bc78-b0441b73e81a" />
+
+<img width="1917" height="912" alt="ConnectCRM customer profile" src="https://github.com/user-attachments/assets/855eb0d2-4d49-41b7-a5af-388c52876a0b" />
+
+<img width="1917" height="917" alt="ConnectCRM activity timeline" src="https://github.com/user-attachments/assets/d41ceb9c-58fe-4069-b5af-24589a6ebb47" />
+
+<img width="1917" height="912" alt="ConnectCRM public contact form" src="https://github.com/user-attachments/assets/d0944608-bcae-4ba2-93db-98a9388f5157" />
+
 The AI and communication controls run in explicit demo mode. No external messages are sent and no external AI provider is claimed.
